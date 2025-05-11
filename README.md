@@ -10,7 +10,7 @@
 - Team discussions around the pit table  
 - Just being a cool display piece for your robotics lab
 
-I started this project started during the **2024–2025 V5RC High Stakes** season, inspired by [AutomationDirect’s Rapid React FRC field model (2022–2023)](https://library.automationdirect.com/2022-first-robotics-rapid-react-3d-printed-field/). The High Stakes field was first featured in my pit display at VEX Worlds 2025 (Entropy 17711E).
+I started this project started during the **2024–2025 V5RC High Stakes** season, inspired by [AutomationDirect’s Rapid React FRC field model (2022–2023)](https://library.automationdirect.com/2022-first-robotics-rapid-react-3d-printed-field/). The High Stakes field was a part of my pit display at VEX Worlds 2025 (Entropy 17711E).
 <br></br>
 
 ## 🎯 Featured Field: *High Stakes*
