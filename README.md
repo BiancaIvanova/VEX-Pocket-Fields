@@ -65,6 +65,6 @@ VEX-Pocket-Fields/
 - [X] High Stakes (2024–2025 V5RC)  
 - [ ] *Push Back* (2025–2026 V5RC) **WIP**
 - [ ] *Mix & Match* (2025–2026 VIQRC)  **WIP**
-- [ ] Produce modified versions that can be produced without a multicolour 3D printer **WIP**
+- [ ] Produce modified versions that can be made without a multicolour 3D printer **WIP**
 <br></br>
 ---
