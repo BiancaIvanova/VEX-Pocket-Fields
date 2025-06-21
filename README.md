@@ -26,7 +26,7 @@ VEX-Pocket-Fields/
 │   ├── Bambu Studio 3D Print Files/    # 3D-printable models (generic)
 │   └── README.md                       # Notes
 │
-├── 2025-2026-V5RCC-Push-Back/          # (Coming Soon) Files for the Push Back field
+├── 2025-2026-V5RC-Push-Back/          # (Coming Soon) Files for the Push Back field
 ├── 2025-2026-VIQRC-Mix-&-Match/        # (Coming Soon) Files for VIQRC Mix & Match
 │
 ├── docs/
